@@ -20,12 +20,18 @@
         "310b3f03-e8e7-4b02-9af5-b448b99b8f94": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Women",
-            "button_link_1": "",
+            "button_label_1": "WOMEN",
+            "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
-            "button_label_2": "Men",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_2": "MEN",
+            "button_link_2": "shopify:\/\/collections\/all",
+            "button_style_secondary_2": false,
+            "button_label_3": "KIDS",
+            "button_link_3": "shopify:\/\/collections\/all",
+            "button_style_secondary_3": false,
+            "button_label_4": "HOME",
+            "button_link_4": "shopify:\/\/collections\/all",
+            "button_style_secondary_4": false
           }
         }
       },
@@ -69,7 +75,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Summer Essentials",
-            "button_link": ""
+            "button_link": "shopify:\/\/collections\/all"
           }
         }
       },
