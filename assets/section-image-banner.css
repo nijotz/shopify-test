@@ -243,7 +243,7 @@
 
 @media screen and (min-width: 750px) {
   .banner__content {
-    padding: 5rem;
+    padding: 1rem;
   }
 
   .banner__content--top-left {
@@ -393,6 +393,8 @@
 
 .banner__heading {
   margin-bottom: 0;
+  font-size: 80px;
+  max-width: 60rem;
 }
 
 .banner__box .banner__heading + * {
@@ -402,8 +404,8 @@
 .banner__buttons {
   display: inline-flex;
   flex-wrap: wrap;
-  gap: 1rem;
-  max-width: 45rem;
+  gap: 1.25rem;
+  max-width: 65rem;
   word-break: break-word;
 }
 
@@ -414,14 +416,14 @@
 
   .banner--content-align-mobile-center .banner__buttons--multiple > * {
     flex-grow: 1;
-    min-width: 22rem;
+    width: 22rem;
   }
 }
 
 @media screen and (min-width: 750px) {
   .banner--content-align-center .banner__buttons--multiple > * {
     flex-grow: 1;
-    min-width: 22rem;
+    min-width: 15rem;
   }
 
   .banner--content-align-right .banner__buttons--multiple {
